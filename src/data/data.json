@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "country" : "London",
+      "status":"Sale",
+      "image":
+        "https://th.bing.com/th/id/OIP.z_0_YcEj5418zB4t6HUiMwHaE8?pid=ImgDet&rs=1",
+      "address": "     8558 Pecan St.",
+      "title": "RCE Theatres - 907 Beckford Dr, Henderson, NC 27536",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 2,
+      "country" : "London",
+      "status":"Rent",
+      "image":
+        "https://th.bing.com/th/id/R.577d50c3b692d31182bd5285abc3734d?rik=9OFPnlVqnlLmvw&riu=http%3a%2f%2fp.rdcpix.com%2fv02%2fl97875d45-m0xd-w640_h480_q80.jpg&ehk=dYtm7B48qafrrnBsrV0veQbT1c%2fCNBvNZNbMk%2bqKhPA%3d&risl=&pid=ImgRaw&r=0",
+      "address": "8558 Parker Rd.",
+      "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 3,
+      "country" : "Mumbai",
+      "status":"Sale",
+      "image":
+        "https://th.bing.com/th/id/OIP._N-yk6kIk2Ev_oF_sSPsEgHaE7?pid=ImgDet&rs=1",
+      "address": "3890 Poplar Dr.",
+      "title": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$5,256/month"
+    },
+    {
+      "id": 4,
+      "country" : "Paris",
+      "status":"Rent",
+      "image":
+        "https://i.pinimg.com/originals/a4/06/80/a40680445348d6a7f26b8d2195b9725d.jpg",
+      "address": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+      "title": "RCE Theatres - 907 Beckford Dr, Henderson, NC 27536",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 5,
+      "country" : "New York",
+      "status":"Sale",
+      "image":
+        "https://th.bing.com/th/id/OIP.ABBdyDMe-kN52gufLjdFqwHaHa?pid=ImgDet&rs=1",
+      "address": "8558 Green Rd.",
+      "title": "RCE Theatres - 907 Beckford Dr, Henderson, NC 27536",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 6,
+      "country" : "London",
+      "status":"Sale",
+      "image":
+        "https://th.bing.com/th/id/OIP.2cPYBBpzV9X4oYIwqZfokQHaE8?pid=ImgDet&rs=1",
+      "address": "8558 Green Rd.",
+      "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27610",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 4,
+      "country" : "Paris",
+      "status":"Rent",
+      "image":
+        "https://i.pinimg.com/originals/a4/06/80/a40680445348d6a7f26b8d2195b9725d.jpg",
+      "address": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+      "title": "RCE Theatres - 907 Beckford Dr, Henderson, NC 27536",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    }, {
+      "id": 8,
+      "country" : "London",
+      "status":"Sale",
+      "image":
+        "https://th.bing.com/th/id/OIP.z_0_YcEj5418zB4t6HUiMwHaE8?pid=ImgDet&rs=1",
+      "address": "     8558 Pecan St.",
+      "title": "RCE Theatres - 907 Beckford Dr, Henderson, NC 27536",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    },
+    {
+      "id": 9,
+      "country" : "London",
+      "status":"Rent",
+      "image":
+        "https://th.bing.com/th/id/R.577d50c3b692d31182bd5285abc3734d?rik=9OFPnlVqnlLmvw&riu=http%3a%2f%2fp.rdcpix.com%2fv02%2fl97875d45-m0xd-w640_h480_q80.jpg&ehk=dYtm7B48qafrrnBsrV0veQbT1c%2fCNBvNZNbMk%2bqKhPA%3d&risl=&pid=ImgRaw&r=0",
+      "address": "8558 Parker Rd.",
+      "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+      "rooms": "3 room",
+      "bed": "4 bed",
+      "bath": "1 bath",
+      "area": "732 sft",
+      "price": "$7,225/month"
+    }
+  ]
+  
